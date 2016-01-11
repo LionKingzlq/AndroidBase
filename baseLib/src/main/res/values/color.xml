@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources> 
+    <color name="kr_color_main_b_bg">#33323a</color>
+    <color name="kr_color_main_bg">#F8F8F8</color>
+    <color name="kr_color_line_bg">#979797</color>
+    <color name="kr_color_yellow_bg">#f5a623</color>
+    <color name="kr_color_yellow_s_bg">#facc8e</color>
+    <color name="kr_color_grey_bg">#444444</color>
+    <color name="kr_color_grey">#a0a0a0</color>
+    <color name="kr_color_blue_bg">#4a64e2</color>
+    <color name="kr_color_st_bg">#f3f3f3</color>
+    <color name="kr_color_red_bg">#ff0000</color>
+    <color name="kr_color_grey_titlebar">#4A4A4A</color>
+    
+    <color name="color_play">#9AFF9A</color>
+    <color name="color_font">#FFFFFF</color>
+    <color name="color_violet">#9900FF</color>
+    <color name="color_black">@color/black</color>
+    <color name="color_white">@color/white</color>
+    <color name="color_gray">#736F6E</color>
+    <color name="color_dark">#161C27</color>
+    <color name="color_light">#4D6288</color>
+    <color name="button_color">@color/black</color>
+    <color name="red">#ff0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="title_color">@color/black</color>
+    
+	<color name="TextColorBlack">@color/black</color>
+	<color name="TextColorWhite">@color/white</color>
+	<color name="TextColorGray">#FF505050</color>
+	<color name="TextOption">#D8D9D9</color>
+	
+	<color name="button_selected">#ebeee5</color><!-- setup -->
+    <color name="shape_line">#ffcccccc</color><!-- setup -->
+    <color name="text_color">#ff343535</color><!-- setup -->
+    <color name="reg_color">#ff164585</color><!-- register -->
+   	<color name="option_bar">#ff54616b</color><!-- option bar selected -->
+   	<color name="option_bar_selected">#ff02101a</color><!-- option bar selected -->
+   	<color name="n_panel_listview">#3ba51e</color><!-- 播放器listview边框 -->
+   	
+   	<color name="detail_bottom_color_all">#3d97ea</color><!-- 标题栏背景颜色 -->
+   	<color name="detail_bottom_color_zhijin">#e7c00d</color><!-- 标题栏背景颜色 -->
+	
+	<!-- 日历 -->
+   	<color name="Calendar_WeekBgColor">#FFFFFF</color>
+   	<color name="Calendar_DayBgColor">#FFFFFF</color>
+   	<color name="isHoliday_BgColor">#E0E0E0</color>
+   	<color name="unPresentMonth_FontColor">#7d98a5</color>
+   	<color name="isPresentMonth_FontColor">#2f424c</color>
+   	<color name="isToday_BgColor">#EBDCC1</color>
+   	<color name="specialReminder">#FF0000</color>
+   	<color name="commonReminder">#BDBAB5</color>
+   	<color name="Calendar_WeekFontColor">#000000</color>
+   	<color name="edu_index_text">#333333</color>
+   	<color name="edu_index_bg">#49b470</color>
+   	<color name="calendar_line">#92a1ab</color>
+   	
+   	<color name="main_background">#fafbfd</color>
+   	
+   	<color name="weibo_time">#848b92</color>
+   	
+   	<!-- plan -->
+   	<color name="plan_list_time">#1b1d1e</color>
+   	
+    <color name="detail_bottom_color">@color/detail_bottom_color_all</color>
+   	<color name="actionbar_title">@color/white</color>
+   	
+   	<color name="tab_color_s">@color/white</color>
+   	<color name="tab_color_u">#909090</color>
+   	
+   	<color name="hand_bg_black">#83000000</color>
+</resources>

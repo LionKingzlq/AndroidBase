@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="swipelistviewstyle">    
+        <attr name="right_width" format="dimension"></attr>  
+    </declare-styleable>
+    
+    <declare-styleable name="rlfont">    
+        <attr name="rlTextFont" format="enum">
+            <enum name="none" value="0" />
+            <enum name="helveticaNenu" value="1" />
+            <enum name="helveticaNenuBold" value="2" />
+            <enum name="centuryGothic" value="3" />
+        </attr>  
+    </declare-styleable>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/loading_dialog"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="@dimen/loading_bg_size"
+        android:layout_height="@dimen/loading_bg_size"
+        android:gravity="center"
+        android:background="@drawable/bg_radius_grey">
+
+        <com.chetuan.caragent3.widget.CircleLoadingView
+            android:id="@+id/loading_circle"
+            android:layout_width="@dimen/loading_circle_size"
+            android:layout_height="@dimen/loading_circle_size"
+            android:textColor="@color/my_red"
+            android:textColorHint="@color/white" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="loading..."
+            android:id="@+id/textView8"
+            android:paddingTop="10dp"
+            android:visibility="visible"
+            android:paddingLeft="3dp"
+            android:paddingRight="3dp"
+            android:singleLine="true"
+            android:textSize="@dimen/text_12"
+            android:textColor="@color/bg_white" />
+    </LinearLayout>
+
+</LinearLayout>

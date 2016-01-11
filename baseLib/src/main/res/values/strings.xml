@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BaseLib</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tag_tag_bean"></string>
+    
+    <string name="loading_texgt">正在加载</string>
+    <string name="chooseexpiredtime">Choose Expired Time</string>
+    <!-- <string name="ky_price"><Data><![CDATA[<sup><font size="1">$</font></sup>%1$s]]></Data></string> -->
+    <string name="ky_price"><Data><![CDATA[$%1$s]]></Data></string>
+    <string name="home_tag_delete"></string>
+    <string name="update_free"></string>
+    <string name="update_failed">Update Failed!</string>
+    <string name="update_progress">Update Progress</string>
+    
+    
+</resources>

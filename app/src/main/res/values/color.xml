@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_bg">#f6f6f6</color>
+
+    <color name="text_grey_cc">#cccccc</color>
+    <color name="text_grey_153">#999999</color>
+    <color name="text_grey_168">#ffa8a8a8</color>
+    <color name="text_grey_187">#ffbbbbbb</color>
+    <color name="text_grey_102">#666666</color>
+    <color name="text_black">#333333</color>
+    <color name="text_black_38">#ff262626</color>
+    <color name="text_black_35">#ff232323</color>
+    <color name="text_black_14">#ff0e0e0e</color>
+
+    <color name="grey_f0">#fff0f0f0</color>
+    <color name="white">#ffffffff</color>
+    <color name="my_blue">#ff0e95ff</color>
+    <color name="my_light_blue">#960e95ff</color>
+    <color name="my_yellow">#ffffbb4d</color>
+    <color name="my_orange">#ffff9731</color>
+    <color name="my_violet">#ffff2dde</color>
+    <color name="my_red">#ff490d</color>
+    <color name="my_pink">#ffff6776</color>
+    <color name="my_green">#ff91d000</color>
+    <color name="my_grey">#c8646464</color>
+    <color name="my_cyan">#ff3fdaff</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="bg_white">#ffffff</color>
+    <color name="hint_color">#DCDCDC</color>
+    <color name="line_color">#ffd2d2d2</color>
+    <color name="bg_grey_alpha">#64646464</color>
+
+    <color name="bg_grey_229">#ffe5e5e5</color>
+    <color name="text_orange">#ffff6900</color>
+    <color name="grey">#808080</color>
+
+    <color name="text_grey">#cccccc</color>
+
+</resources>

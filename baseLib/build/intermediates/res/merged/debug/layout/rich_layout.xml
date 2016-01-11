@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toast_layout_root"
+    android:layout_width="142dip"
+    android:layout_height="102.5dip"
+    android:background="@drawable/rounded_corners"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="10dp" >
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:src="@drawable/ic_launcher"
+        android:layout_width="47dp"
+        android:layout_height="47dp" />
+
+    <com.rl01.lib.widget.RLTextView
+        android:id="@+id/textView"
+        android:textColor="@color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="5dp"
+        android:text="test test"
+        android:gravity="center_vertical" />
+
+</LinearLayout>

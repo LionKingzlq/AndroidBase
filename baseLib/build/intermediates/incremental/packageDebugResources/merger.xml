@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res"/><source path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\build\generated\res\rs\debug"/><source path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\debug\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res"><file name="dialog_enter_anim" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\anim\dialog_enter_anim.xml" qualifiers="" type="anim"/><file name="dialog_exit_anim" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\anim\dialog_exit_anim.xml" qualifiers="" type="anim"/><file name="hold_anim" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\anim\hold_anim.xml" qualifiers="" type="anim"/><file name="hold_anim2" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\anim\hold_anim2.xml" qualifiers="" type="anim"/><file name="rounded_corners" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\drawable\rounded_corners.xml" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ba_list_dialog_item" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\layout\ba_list_dialog_item.xml" qualifiers="" type="layout"/><file name="dialog_loading" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\layout\dialog_loading.xml" qualifiers="" type="layout"/><file name="rich_layout" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\layout\rich_layout.xml" qualifiers="" type="layout"/><file name="v_notify_progress_layout" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\layout\v_notify_progress_layout.xml" qualifiers="" type="layout"/><file name="main" path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\menu\main.xml" qualifiers="" type="menu"/><file path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="rlfont">    
+        <attr format="enum" name="rlTextFont">
+            <enum name="none" value="0"/>
+            <enum name="helveticaNenu" value="1"/>
+            <enum name="helveticaNenuBold" value="2"/>
+            <enum name="centuryGothic" value="3"/>
+        </attr>  
+    </declare-styleable><declare-styleable name="swipelistviewstyle">    
+        <attr format="dimension" name="right_width"/>  
+    </declare-styleable></file><file path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\values\color.xml" qualifiers=""><color name="tab_color_u">#909090</color><color name="tab_color_s">@color/white</color><color name="kr_color_blue_bg">#4a64e2</color><color name="color_dark">#161C27</color><color name="color_black">@color/black</color><color name="TextColorBlack">@color/black</color><color name="kr_color_grey">#a0a0a0</color><color name="shape_line">#ffcccccc</color><color name="detail_bottom_color_all">#3d97ea</color><color name="kr_color_yellow_bg">#f5a623</color><color name="kr_color_line_bg">#979797</color><color name="main_background">#fafbfd</color><color name="unPresentMonth_FontColor">#7d98a5</color><color name="black">#000000</color><color name="color_white">@color/white</color><color name="color_play">#9AFF9A</color><color name="isPresentMonth_FontColor">#2f424c</color><color name="option_bar">#ff54616b</color><color name="plan_list_time">#1b1d1e</color><color name="TextColorWhite">@color/white</color><color name="hand_bg_black">#83000000</color><color name="text_color">#ff343535</color><color name="color_font">#FFFFFF</color><color name="red">#ff0000</color><color name="kr_color_main_bg">#F8F8F8</color><color name="edu_index_text">#333333</color><color name="option_bar_selected">#ff02101a</color><color name="kr_color_st_bg">#f3f3f3</color><color name="Calendar_DayBgColor">#FFFFFF</color><color name="Calendar_WeekBgColor">#FFFFFF</color><color name="TextOption">#D8D9D9</color><color name="commonReminder">#BDBAB5</color><color name="kr_color_grey_bg">#444444</color><color name="detail_bottom_color">@color/detail_bottom_color_all</color><color name="actionbar_title">@color/white</color><color name="button_color">@color/black</color><color name="kr_color_red_bg">#ff0000</color><color name="button_selected">#ebeee5</color><color name="detail_bottom_color_zhijin">#e7c00d</color><color name="color_violet">#9900FF</color><color name="title_color">@color/black</color><color name="transparent">#00000000</color><color name="Calendar_WeekFontColor">#000000</color><color name="kr_color_main_b_bg">#33323a</color><color name="kr_color_yellow_s_bg">#facc8e</color><color name="TextColorGray">#FF505050</color><color name="edu_index_bg">#49b470</color><color name="isToday_BgColor">#EBDCC1</color><color name="color_light">#4D6288</color><color name="isHoliday_BgColor">#E0E0E0</color><color name="white">#FFFFFFFF</color><color name="kr_color_grey_titlebar">#4A4A4A</color><color name="n_panel_listview">#3ba51e</color><color name="weibo_time">#848b92</color><color name="calendar_line">#92a1ab</color><color name="reg_color">#ff164585</color><color name="specialReminder">#FF0000</color><color name="color_gray">#736F6E</color></file><file path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\values\dimens.xml" qualifiers=""><dimen name="activity_horizontal_margin">16dp</dimen><dimen name="activity_vertical_margin">16dp</dimen></file><file path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\values\strings.xml" qualifiers=""><string name="action_settings">Settings</string><string name="home_tag_delete"/><string name="ky_price"><Data>$%1$s</Data></string><string name="tag_tag_bean"/><string name="app_name">BaseLib</string><string name="update_progress">Update Progress</string><string name="chooseexpiredtime">Choose Expired Time</string><string name="loading_texgt">正在加载</string><string name="update_failed">Update Failed!</string><string name="update_free"/><string name="hello_world">Hello world!</string></file><file path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\values\styles.xml" qualifiers=""><style name="dialogBaseTheme" parent="@android:style/Theme.Dialog">
+    </style><style name="dialogTheme" parent="dialogBaseTheme">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowFullscreen">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:textColor">@color/black</item>
+    </style><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\values\swipelistview__attrs.xml" qualifiers=""><declare-styleable name="SwipeListView">
+        <attr format="boolean" name="swipeOpenOnLongPress"/>
+        <attr format="integer" name="swipeAnimationTime"/>
+        <attr format="dimension" name="swipeOffsetLeft"/>
+        <attr format="dimension" name="swipeOffsetRight"/>
+        <attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/>
+        <attr format="reference" name="swipeFrontView"/>
+        <attr format="reference" name="swipeBackView"/>
+        <attr format="enum" name="swipeMode">
+            <enum name="none" value="0"/>
+            <enum name="both" value="1"/>
+            <enum name="right" value="2"/>
+            <enum name="left" value="3"/>
+        </attr>
+        <attr format="enum" name="swipeActionLeft">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr format="enum" name="swipeActionRight">
+            <enum name="reveal" value="0"/>
+            <enum name="dismiss" value="1"/>
+            <enum name="choice" value="2"/>
+        </attr>
+        <attr format="reference" name="swipeDrawableChecked"/>
+        <attr format="reference" name="swipeDrawableUnchecked"/>
+    </declare-styleable></file><file path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\values-sw720dp-land\dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="dialogBaseTheme" parent="@android:style/Theme.Holo.Light.Dialog">
+    </style><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        <!-- API 11 theme customizations can go here. -->
+    </style></file><file path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style><style name="dialogBaseTheme" parent="@android:style/Theme.Holo.Light.Dialog">
+    </style></file></source><source path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\build\generated\res\rs\debug"/><source path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\Administrator\AndroidStudioProjects\AskForIt\baseLib\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="rlfont"><attr format="enum" name="rlTextFont"><enum name="none" value="0"/><enum name="helveticaNenu" value="1"/><enum name="helveticaNenuBold" value="2"/><enum name="centuryGothic" value="3"/></attr></declare-styleable><declare-styleable name="swipelistviewstyle"><attr format="dimension" name="right_width"/></declare-styleable><declare-styleable name="SwipeListView"><attr format="boolean" name="swipeOpenOnLongPress"/><attr format="integer" name="swipeAnimationTime"/><attr format="dimension" name="swipeOffsetLeft"/><attr format="dimension" name="swipeOffsetRight"/><attr format="boolean" name="swipeCloseAllItemsWhenMoveList"/><attr format="reference" name="swipeFrontView"/><attr format="reference" name="swipeBackView"/><attr format="enum" name="swipeMode"><enum name="none" value="0"/><enum name="both" value="1"/><enum name="right" value="2"/><enum name="left" value="3"/></attr><attr format="enum" name="swipeActionLeft"><enum name="reveal" value="0"/><enum name="dismiss" value="1"/><enum name="choice" value="2"/></attr><attr format="enum" name="swipeActionRight"><enum name="reveal" value="0"/><enum name="dismiss" value="1"/><enum name="choice" value="2"/></attr><attr format="reference" name="swipeDrawableChecked"/><attr format="reference" name="swipeDrawableUnchecked"/></declare-styleable></configuration></mergedItems></merger>
